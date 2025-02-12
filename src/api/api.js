@@ -1,5 +1,5 @@
 export const settings = {
-    host: 'https://library-6wk6.onrender.com/',
+    host: 'https://library-server-37do.onrender.com',
 };
 
 async function request(url, options) {
